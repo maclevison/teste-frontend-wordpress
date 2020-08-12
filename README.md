@@ -26,8 +26,6 @@ O desafio tem tempo de execução previsto para 12 horas, pode ser entregue em a
 
 Podes fazer um fork do repositório e fazer dele o seu `origin`. Dessa forma, podemos acompanhar os commits e avaliar melhor o seu desenvolvimento quando fizer o Pull Request com o resultado
 
-Também podes fazer tudo em algum repositório privado e na entrega, liberar acesso de leitura para o e-mail maclevison@gmail.com
-
 ## Docker
 
 Podes usar o [Docker](https://github.com/maclevison/WordPress-Docker) para criar o ambiente de desenvolvimento para o desafio.
